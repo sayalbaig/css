@@ -32,3 +32,5 @@ SIMPLE SIGNUP PAGE
 
 FLEX BOX TUTORIAL
 ![image](https://github.com/user-attachments/assets/79628f61-2703-433e-a269-63cefbb6ad43)
+![image](https://github.com/user-attachments/assets/fea089c2-37b5-4a6e-8126-7316155fb353)
+

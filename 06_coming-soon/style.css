@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Barlow", sans-serif;
+  height: 100%;
+}
+.container {
+  background: linear-gradient(135deg, #8a2be2, #4169e1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.content {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 5px;
+  max-width: 350px;
+}
+.logo {
+  width: 200px;
+  /* height: 50px; */
+  object-fit: contain;
+}
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+p {
+  color: #666;
+  margin-bottom: 20px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input[type="email"] {
+  padding: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  border-radius: 7px;
+}
+.btn {
+  background-color: purple;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.5s ease-in-out;
+}
+.btn:hover {
+  background-color: rgb(23, 19, 23);
+}
